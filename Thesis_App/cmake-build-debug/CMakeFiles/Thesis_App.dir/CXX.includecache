@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/Boolean.h
+iostream
+-
+vector
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/vector
+list
+-
+sstream
+-
+string
+-
+bits/stdc++.h
+-
+stack
+-
+algorithm
+-
+
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/main.cpp
+iostream
+-
+vector
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/vector
+Boolean.h
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/Boolean.h
+

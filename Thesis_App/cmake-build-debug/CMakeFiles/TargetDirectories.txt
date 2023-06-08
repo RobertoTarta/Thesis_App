@@ -1,0 +1,3 @@
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/cmake-build-debug/CMakeFiles/Thesis_App.dir
+C:/Users/rober/Desktop/BSc Thesis Preparation/Thesis_App/cmake-build-debug/CMakeFiles/edit_cache.dir

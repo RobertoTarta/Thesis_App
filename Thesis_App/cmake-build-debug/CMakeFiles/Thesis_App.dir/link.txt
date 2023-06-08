@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Thesis_App.dir/objects.a
+D:\MIngw\mingw64\bin\ar.exe cr CMakeFiles\Thesis_App.dir/objects.a @CMakeFiles\Thesis_App.dir\objects1.rsp
+D:\MIngw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Thesis_App.dir/objects.a -Wl,--no-whole-archive -o Thesis_App.exe -Wl,--out-implib,libThesis_App.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Thesis_App.dir\linklibs.rsp
